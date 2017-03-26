@@ -1,0 +1,73 @@
+
+	.allCont {
+		width: 810px;
+		margin:auto;
+		margin-bottom: 40px;
+		height: 260px;
+	}
+	.mainBox {
+		width: 272px;
+		height: 260px;
+		float: left;
+	}
+	.firstImg {
+		width: 270px;
+		float: left;
+	}
+	.bigImg {
+		margin-bottom: 5px;
+		float: left;
+	}
+	.smallImg {
+		float: left;
+	}
+	.dis {
+		width: 65px;
+		float: left;
+		margin-right: 3px;
+	}
+	.desMain {
+		float: left;
+		width: 500px;
+		height: 260px;
+		margin-left: 30px;
+	}
+	.carName {
+		font-size: 22px;
+		line-height: 25px;
+		font-family: arial;
+		letter-spacing: -1px;
+		text-transform: uppercase;
+		margin-top: 40px;
+		margin-bottom: 10px;
+	}
+	.price {
+		font-size: 22px;
+		font-family: calibri;
+		font-weight: bold;
+		padding-left: 20px;
+		line-height: 25px;
+		color: #E62861;
+	}
+	.desCar {
+		margin-top: 15px;
+		font-size: 12px;
+		line-height: 15px;
+		font-family: calibri;
+		width: 120px;
+		text-transform: uppercase;
+		float: left;
+		border: 1px dotted #000;
+		text-align: center;
+		margin-right: 3px;
+	}
+	.contact {
+		margin-top: 20px;
+		font-size: 12px;
+		line-height: 15px;
+		font-family: arial;
+		text-transform: uppercase;
+		float: left;
+		text-align: left;
+		padding-left: 5px;
+	}

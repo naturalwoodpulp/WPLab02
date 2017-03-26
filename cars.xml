@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" ?>
+ <cars>
+ 	<item>
+ 		<imgl>images/car10.jpg</imgl>
+ 		<img1>images/car11.jpg</img1>
+ 		<img2>images/car12.jpg</img2>
+ 		<img3>images/car13.jpg</img3>
+ 		<img4>images/car14.jpg</img4>
+ 		<name>2009 Proton Exora 1.6 (A) CAMPRO CPS FULL SPEC</name>
+ 		<price>RM 26 333</price>
+ 		<condition>Used</condition>
+ 		<mileage>120 000 - 129 999</mileage>
+ 		<manufactured>2001</manufactured>
+ 		<engine>1500 cc</engine>
+ 		<contact>Lot 3 Off Lebuhraya Silk 43200 Cheras Jaya,Cheras Selangor (012-520 1380)</contact>
+    </item>
+     <item>
+ 		<imgl>images/car20.jpg</imgl>
+ 		<img1>images/car21.jpg</img1>
+ 		<img2>images/car22.jpg</img2>
+ 		<img3>images/car23.jpg</img3>
+ 		<img4>images/car24.jpg</img4>
+ 		<name>2012 BMW 328i 2.0 (A) Twin power turbo four-cylind</name>
+ 		<price>RM 49 900</price>
+ 		<condition>Used</condition>
+ 		<mileage>70 000 - 74 999</mileage>
+ 		<manufactured>2002</manufactured>
+ 		<engine>2000 cc</engine>
+ 		<contact>Kuala Lumpur</contact>
+ 	</item>
+ 	<item>
+ 		<imgl>images/car30.jpg</imgl>
+ 		<img1>images/car31.jpg</img1>
+ 		<img2>images/car32.jpg</img2>
+ 		<img3>images/car33.jpg</img3>
+ 		<img4>images/car34.jpg</img4>
+ 		<name>Perodua Viva 1.0 (A) ORI 2011</name>
+ 		<price>RM 19 888</price>
+ 		<condition>Used</condition>
+ 		<mileage>40 000 - 44 999</mileage>
+ 		<manufactured>2011</manufactured>
+ 		<engine>1000 cc</engine>
+ 		<contact>Bandar Bukit Tinggi, Selangor (016-383 5126)</contact>
+ 	</item>
+ 	<item>
+ 		<imgl>images/car40.jpg</imgl>
+ 		<img1>images/car41.jpg</img1>
+ 		<img2>images/car42.jpg</img2>
+ 		<img3>images/car43.jpg</img3>
+ 		<img4>images/car44.jpg</img4>
+ 		<name>Porsche Panamera 3.0 (A)</name>
+ 		<price>RM 620 000</price>
+ 		<condition>Recon</condition>
+ 		<mileage>20 000 - 24 999</mileage>
+ 		<manufactured>2015</manufactured>
+ 		<engine>23000 cc</engine>
+ 		<contact>Kuala Lumpur (018-665 2646)</contact>
+ 	</item>
+ 	<item>
+ 		<imgl>images/car50.jpg</imgl>
+ 		<img1>images/car51.jpg</img1>
+ 		<img2>images/car52.jpg</img2>
+ 		<img3>images/car53.jpg</img3>
+ 		<img4>images/car54.jpg</img4>
+ 		<name>2013 Nissan Almera 1.5 (A) Impul Spor+</name>
+ 		<price>	RM 38 800</price>
+ 		<condition>Used</condition>
+ 		<mileage>80 000 - 84 999</mileage>
+ 		<manufactured>2013</manufactured>
+ 		<engine>1498 cc</engine>
+ 		<contact>Segamat, Johor (019-779 2390)</contact>
+ 	</item>
+ 	<item>
+ 		<imgl>images/car60.jpg</imgl>
+ 		<img1>images/car61.jpg</img1>
+ 		<img2>images/car62.jpg</img2>
+ 		<img3>images/car63.jpg</img3>
+ 		<img4>images/car64.jpg</img4>
+ 		<name>2003 Honda Jazz 1.4 I-DSI AUTO CBU</name>
+ 		<price>RM 24 800</price>
+ 		<condition>Used</condition>
+ 		<mileage>85 000 - 89 999</mileage>
+ 		<manufactured>2003</manufactured>
+ 		<engine>1400 cc</engine>
+ 		<contact>PT No.20214/20215, Mukim Ampang, Taman Lembah Maju, 56100, Kuala Lumpur (012-608 3199)</contact>
+ 	</item>
+ </cars>
